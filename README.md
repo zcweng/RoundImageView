@@ -1,7 +1,5 @@
 RoundImageView
 ==============
-<img src="https://github.com/zcweng/RoundImageView/blob/master/device-2014-10-31-183137.png" style="width:200px"/>
-
 
 Usage
 ==============
@@ -25,3 +23,9 @@ Usage
         app:borderRadius="6dp"
         app:borderWidth="2dp" />
         
+        
+Sample
+==============
+<img src="https://github.com/zcweng/RoundImageView/blob/master/device-2014-10-31-183137.png" style="width:200px"/>
+
+
